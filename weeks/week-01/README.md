@@ -1,4 +1,4 @@
-# Week 01 — 01 Nov 2025 — Orientation & Offensive Mindset
+# Week 01 — 01 Nov 2025 — Topic
 
 Session Objectives
 - Understand internship structure
@@ -14,7 +14,7 @@ Lab(s)
 - Quick OSINT demo (link)
 
 Tasks (due by next session)
-1. Submit `submissions/{github-username}/week-01/lab-report.md` based on `templates/LAB_REPORT_TEMPLATE.md`.
+1. Submit 
 2. Update `attendance/{github-username}.md` marking week-01 as `present` / `absent` / `excused`.
 
 Deliverables
