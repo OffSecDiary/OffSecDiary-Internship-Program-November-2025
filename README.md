@@ -16,9 +16,8 @@ Quickstart
 
 Repository layout
 - templates/ — templates for week, attendance, lab-report, task submission
-- weeks/ week-01 — copies of the week template per session with resources
+- weekly submissions/ week-01 — individual assignment submissions (use per-week subfolders)
 - attendance/ — interns add/update their attendance file here (one per intern)
-- submissions/ — individual assignment submissions (use per-week subfolders)
 - final-projects/ — final deliverables
 - GRADING.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md
 
