@@ -15,9 +15,10 @@ Quickstart
 6. Every individual must create their own github repo for the project & task submissions as well as for their attendence record too.
 
 Repository layout
-- templates/ — templates for week, attendance, lab-report, task submission
-- weekly submissions/ week-01 — individual assignment submissions (use per-week subfolders)
-- attendance/ — interns add/update their attendance file here (one per intern)
+- templates/ — templates for week, attendance, lab-report, weekly-task-submission
+- weekly-task-submissions/ week-01 — individual weekly tasks submissions (use per-week subfolders)
+- lab-reports/ lab-01 — individual lab report submissions (use per-week subfolders)
+- attendance/ — interns must upload their attendence screenshot (as per-week class-wise)
 - final-projects/ — final deliverables
 - GRADING.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md
 
