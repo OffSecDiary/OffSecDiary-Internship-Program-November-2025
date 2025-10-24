@@ -7,8 +7,8 @@ File format (example):
 - GitHub: @github-username
 - Email: optional@domain
 - Attendance:
-  - week-01: present / absent / excused (date)
-  - week-02: present / absent / excused
+  - week-01: class-wise screenshots
+  - week-02: class-wise screenshots
   - ...
 - Notes: optional
 
